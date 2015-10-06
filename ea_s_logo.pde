@@ -9,7 +9,6 @@ ellipse(180,190,200,200);
 
   //the E
 fill(0);
-
 //the line above of the E
 quad(145,170,185,170,180,180,140,180);
 
